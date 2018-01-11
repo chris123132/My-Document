@@ -1,0 +1,4 @@
+C++ learning project
+
+Algorithm: MIT web video
+Data Structure: book & website
